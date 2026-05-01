@@ -1,0 +1,5 @@
+name = "kerchunk-quote"
+main = "index.html"
+compatibility_date = "2024-01-01"
+workers_dev = false
+preview_urls = false
